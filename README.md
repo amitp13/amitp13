@@ -12,10 +12,7 @@
 
 :hearts: Passionate about data, music and sports. 
 
-#### Skills 
+#### Contact Me
 
-##### Python 
-- Working knowledge of Python OOP concepts for software development, data analysis and data science.
-- Experience with Pandas, SQLlite3, Selenium, Flask, Scikit-Learn, Matplotlib and many more libraries in Python.
-- Well versed in using Jupyter Notebook, Pycharm, Atom platforms for Python.
-- Repositories : [Question set scrambler](https://github.com/amitp13/Question_Set_Scrambler)
+- Email : phadke.amit03@gmail.com
+- Linkedin : https://www.linkedin.com/in/amit-phadke12/
