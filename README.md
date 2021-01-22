@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-##### My name is Amit Phadke.
-##### Welcome to my Github Page!! 
+##### My name is Amit Phadke, Welcome to my Github Page!! 
 
 #### About Me
 
