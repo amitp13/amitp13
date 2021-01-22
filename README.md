@@ -18,4 +18,4 @@
 - Working knowledge of Python OOP concepts for software development, data analysis and data science.
 - Experience with Pandas, SQLlite3, Selenium, Flask, Scikit-Learn, Matplotlib and many more libraries in Python.
 - Well versed in using Jupyter Notebook, Pycharm, Atom platforms for Python.
-
+- Repositories : [Question set scrambler](https://github.com/amitp13/Question_Set_Scrambler)
