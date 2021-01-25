@@ -14,9 +14,7 @@
 
 #### Skills
 
-SQL
-
-2 years of work experience in buiding complex Databases with SQL DDL comands and DML commands. Check out my Indian Premier Legaue Dataset on Kaggle I built from YAML files.
+**SQL** : 2 years of work experience in buiding complex Databases with SQL DDL comands and DML commands. Check out my Indian Premier Legaue Dataset on Kaggle I built from YAML files.
 Database Link: https://www.kaggle.com/amitphadke1/ipl-database
 
 #### Contact Me
