@@ -20,7 +20,7 @@
 
 **Python** : Experience in using Python professionally for Data Collection, cleaning and analysis that uses OOP concepts to get various kinds of data from Spotify.  Used Python for [Scrambling student question papers](https://github.com/amitp13/Question_Set_Scrambler) to automate the redundant task of creating multiple question sets as a Teaching Assisant. Experience with using Python for Machine Learning to [predict income of US Adults](https://github.com/amitp13/US_Adult_Income_prediction) and for Data Analysis by visualizing [Top Billboard Songs](https://github.com/amitp13/Top-Songs-Analysis) and [UFC Bouts](https://github.com/amitp13/UFC-Data-Analysis). 
 
-**Tableau** : Work experience in creating interactive dashboard using data modeled in SQL and visualized through advanced tableau development. Check out a few of my Dashboards on my [Tableau public profil](https://public.tableau.com/profile/amit7050/)
+**Tableau** : Work experience in creating interactive dashboard using data modeled in SQL and visualized through advanced tableau development. Check out a few of my Dashboards on my [Tableau public profile](https://public.tableau.com/profile/amit7050/)
 
 #### Contact Me
 
