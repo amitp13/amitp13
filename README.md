@@ -6,7 +6,7 @@
 
 :mortar_board: A Graduate of Rutgers University in Data Analytics and Information Technology, currently pursuing a Ph.D. in Information Technology.
 
-:chart_with_upwards_trend: Senior Data Analyst at Madhive with 4+ years of experience in SQL, Python, BigQuery, and Looker, building attribution and reporting systems for advertising clients.
+:chart_with_upwards_trend: Senior Data Analyst at Madhive with 5+ years of experience in SQL, Python, BigQuery, and Looker, building attribution and reporting systems for advertising clients.
 
 :computer: A background in computer engineering backed by 2 years of work in Agile projects using technologies like SQL, PHP, JavaScript and Python. 
 
